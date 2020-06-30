@@ -4,7 +4,7 @@
 	<f:DynamicPage id="idSellerMoveFrom" toggleHeaderOnTitleClick="false" headerExpanded="true" showFooter="true" fitContent="true"
 		class="sapUiSizeCompact">
 		<f:content>
-		<MessagePage id="idEmptyPageMessage" showHeader="false" text="List Item Detail will load after confirm" enableFormattedText="true"
+		<MessagePage id="idEmptyPageMessage" showHeader="false" text="List Item Detail will load after confirm btn" enableFormattedText="true"
 		description="take the Confirm Action click" icon="sap-icon://hint"></MessagePage>
 		</f:content>
 	</f:DynamicPage>
