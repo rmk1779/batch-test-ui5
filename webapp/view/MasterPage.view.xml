@@ -4,7 +4,7 @@
 		<f:title>
 			<f:DynamicPageTitle>
 				<f:heading>
-					<Title text="Employee List data"/>
+					<Title text="Employee List datas"/>
 				</f:heading>
 				<f:navigationActions>
 					<Button id="idEnterFullScreen" icon="sap-icon://full-screen" type="Transparent" press="setFullScreen"/>
